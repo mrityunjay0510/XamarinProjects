@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -11,11 +10,11 @@ using Android.Views;
 using Android.Widget;
 using Android.Support.V4.App;
 using Java.Lang;
-using AgencyProfile.Services;
-using AgencyProfile.Model;
+using AgencyProfile.Droid.Services;
+using AgencyProfile.Model;  
 using Android.Graphics;
 
-namespace AgencyProfile.Fragments
+namespace  AgencyProfile.Droid.Fragments
 {
     [Activity(Label = "Agent Profile",ParentActivity = typeof(MainActivity) , Theme = "@style/AgentProfileActionBarTheme")]
     public class AgentProfileActivity : FragmentActivity

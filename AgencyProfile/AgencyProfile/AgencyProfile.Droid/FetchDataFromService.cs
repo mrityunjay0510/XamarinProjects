@@ -9,7 +9,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace AgencyProfile.Services
+namespace  AgencyProfile.Droid.Services
 {
     class FetchDataFromService
     {

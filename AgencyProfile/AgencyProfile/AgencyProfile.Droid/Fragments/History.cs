@@ -4,19 +4,15 @@ using Android.Views;
 using Android.Widget;
 using AgencyProfile.Model;
 using Android.Content;
-using AgencyProfile.Fragments;
+
 using com.refractored.fab;
 using System;
 using Android.Runtime;
-using System.IO;
-using Org.Json;
-using System.Text;
 using Android.App;
 using System.Linq;
-using AgencyProfile.Services;
-using System.Threading.Tasks;
+using AgencyProfile.Droid.Fragments;
 
-namespace AgencyProfile
+namespace  AgencyProfile.Droid
 {
     class History : Android.Support.V4.App.ListFragment, IScrollDirectorListener, AbsListView.IOnScrollListener, HistoryFilterFragment.IFilterDialogListener //, AdapterView.IOnItemClickListener
     {

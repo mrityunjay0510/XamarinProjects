@@ -10,7 +10,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace AgencyProfile
+namespace  AgencyProfile.Droid
 {
     public static class StringExtension
     {

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AgencyProfile.Model
+namespace  AgencyProfile.Model
 {
     public class AgentDetails
     {

@@ -1,5 +1,0 @@
-<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">AgencyProfile</string><string name="initial_text">Initial text.</string><item type="id" name="proposalList" /><string name="open_drawer">Open Drawer</string><string name="close_drawer">Close Drawer</string><!--<item type="id" name="customerName" />
-  <item type="id" name="createdDate" />
-  <item type="id" name="viewedDate" />
-  <item type="id" name="linearLayoutImage" />
-  <item type="id" name="imageURI" />--></resources>

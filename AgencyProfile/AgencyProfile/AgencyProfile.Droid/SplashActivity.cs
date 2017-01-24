@@ -5,7 +5,7 @@ using Android.Support.V7.App;
 using System.Threading.Tasks;
 using Android.Util;
 
-namespace AgencyProfile
+namespace  AgencyProfile.Droid
 {
     //[Activity(Label = "SplashActivity")]
 

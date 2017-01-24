@@ -13,7 +13,7 @@ using Android.Views;
 using Android.Widget;
 using AgencyProfile.Model;
 
-namespace AgencyProfile.Fragments
+namespace  AgencyProfile.Droid.Fragments
 {
     [Activity]
     public class EProposalDetails : FragmentActivity 

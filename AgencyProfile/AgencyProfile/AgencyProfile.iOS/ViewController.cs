@@ -2,7 +2,7 @@
 
 using UIKit;
 
-namespace AgencyProfile.iOS
+namespace  AgencyProfile.Droid.iOS
 {
 	public partial class ViewController : UIViewController
 	{

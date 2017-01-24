@@ -12,7 +12,7 @@ using Android.Widget;
 using SQLite;
 using System.IO;
 
-namespace AgencyProfile
+namespace  AgencyProfile.Droid
 {
     public interface ISQLite
     {

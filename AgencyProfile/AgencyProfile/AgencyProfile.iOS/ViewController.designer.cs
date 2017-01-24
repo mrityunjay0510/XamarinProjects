@@ -7,7 +7,7 @@ using Foundation;
 using System.CodeDom.Compiler;
 using UIKit;
 
-namespace AgencyProfile.iOS
+namespace  AgencyProfile.Droid.iOS
 {
 	[Register ("ViewController")]
 	partial class ViewController

@@ -10,8 +10,9 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
+using AgencyProfile.Droid;
 
-namespace AgencyProfile.Fragments
+namespace  AgencyProfile.Droid.Fragments
 {
     public class AgentCustTestimonialFragment : Android.Support.V4.App.Fragment
     {

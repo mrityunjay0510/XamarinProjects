@@ -4,14 +4,13 @@ using Android.Widget;
 using Android.OS;
 using SupportFragment = Android.Support.V4.App.Fragment;
 using Android.Support.V7.App;
-using AgencyProfile.Fragments;
+using AgencyProfile.Droid.Fragments;
 using SupportToolbar = Android.Support.V7.Widget.Toolbar;
 using System.Collections.Generic;
 using Android.Content;
 using Android.Support.V4.Widget;
 
-
-namespace AgencyProfile
+namespace AgencyProfile.Droid
 {
    // [Activity(MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/AppTheme")]
     [Activity(Icon = "@drawable/icon", Theme = "@style/AppTheme")]

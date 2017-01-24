@@ -8,7 +8,7 @@ using Android.Graphics.Drawables;
 using Android.Util;
 using Android.Views.Animations;
 
-namespace AgencyProfile
+namespace  AgencyProfile.Droid
 {
     public class Fab : View
     {

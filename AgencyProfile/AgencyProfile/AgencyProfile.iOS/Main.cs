@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace AgencyProfile.iOS
+namespace  AgencyProfile.Droid.iOS
 {
 	public class Application
 	{

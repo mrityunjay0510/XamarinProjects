@@ -1,4 +1,4 @@
-namespace AgencyProfile.Model
+namespace  AgencyProfile.Model
 {
     public class Proposals
     {

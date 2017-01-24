@@ -11,7 +11,7 @@ using Android.Views;
 using Android.Widget;
 using AgencyProfile.Model;
 
-namespace AgencyProfile
+namespace  AgencyProfile.Droid
 {
     class QuotesListAdapter : BaseAdapter<Quotes>
     {
